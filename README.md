@@ -1,4 +1,4 @@
-# nexy_level_landing
+# next_level_landing
 
 Landing Site with nice animations using AnimeJs.
 
